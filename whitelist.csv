@@ -1,4 +1,0 @@
-src_ip,description
-127.0.0.1,localhost
-172.29.25.178,attacker-vm test machine
-172.29.16.1,windows host gateway
